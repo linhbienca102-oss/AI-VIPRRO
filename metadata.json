@@ -1,0 +1,5 @@
+{
+  "name": "OmniExtract - Universal Content Extractor",
+  "description": "A powerful, client-side application leveraging Google Gemini 2.5 Flash to extract text with high fidelity from PDFs, Images, Audio, Video, and Office documents without summarization.",
+  "requestFramePermissions": []
+}
